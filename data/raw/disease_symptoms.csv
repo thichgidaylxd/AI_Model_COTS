@@ -1,0 +1,126 @@
+benh,trieu_chung
+Cảm cúm,sốt;ho;đau đầu;mệt mỏi;đau cơ;sổ mũi;nghẹt mũi;ớn lạnh;đổ mồ hôi
+Cảm lạnh,sổ mũi;nghẹt mũi;hắt hơi;ho nhẹ;đau họng;mệt mỏi nhẹ
+Viêm họng,đau họng;khó nuốt;sốt nhẹ;sưng hạch;khàn tiếng;ho khan
+Viêm amidan,đau họng;sốt cao;khó nuốt;sưng amidan;mệt mỏi;hôi miệng
+Viêm phổi,ho có đờm;sốt cao;khó thở;đau ngực;mệt mỏi;thở nhanh;run rẩy
+Viêm phế quản,ho dai dẳng;khó thở;đau ngực;có đờm;khò khè;sốt nhẹ
+Viêm phế quản mạn tính,ho kéo dài;khó thở;đờm nhiều;khò khè;mệt mỏi;giảm khả năng vận động
+Sốt xuất huyết,sốt cao;đau đầu;đau cơ;buồn nôn;nổi ban;chảy máu cam;đau sau hốc mắt;xuất huyết dưới da
+Sốt rét,sốt cao;rét run;đổ mồ hôi;đau đầu;buồn nôn;mệt mỏi;vàng da;lách to
+Sốt phát ban,sốt cao;phát ban;đau đầu;đau cơ;mệt mỏi;chán ăn
+Viêm gan A,mệt mỏi;buồn nôn;nôn;đau bụng;vàng da;sốt nhẹ;nước tiểu sẫm màu;phân nhạt màu
+Viêm gan B,mệt mỏi;vàng da;đau bụng;buồn nôn;sốt nhẹ;nước tiểu sẫm màu;đau khớp;phát ban
+Viêm gan C,mệt mỏi mạn tính;vàng da;đau bụng;buồn nôn;sốt nhẹ;ngứa da
+Xơ gan,vàng da;bụng to;phù chân;mệt mỏi;chảy máu dễ dàng;giảm cân;buồn nôn
+Tiêu chảy cấp,đi ngoài lỏng;đau bụng;buồn nôn;sốt nhẹ;mất nước;yếu
+Tiêu chảy mạn tính,đi ngoài lỏng kéo dài;đau bụng;mệt mỏi;giảm cân;chướng bụng
+Nhiễm khuẩn đường ruột,đau bụng;tiêu chảy;nôn;sốt;đầy hơi;đi ngoài ra máu
+Ngộ độc thực phẩm,nôn;tiêu chảy;đau bụng;sốt;đau đầu;yếu
+Viêm dạ dày cấp,đau bụng;buồn nôn;nôn;đầy hơi;ợ nóng;chán ăn
+Viêm dạ dày mạn tính,đau bụng kéo dài;buồn nôn;đầy hơi;ợ nóng;giảm cân;mệt mỏi
+Loét dạ dày,đau bụng;ợ nóng;buồn nôn;đầy hơi;đau sau khi ăn;nôn ra máu;phân đen
+Loét tá tràng,đau bụng đói;ợ nóng;buồn nôn;đầy hơi;đau giảm khi ăn
+Viêm ruột thừa,đau bụng dưới bên phải;buồn nôn;nôn;sốt;mất cảm giác ngon miệng;táo bón
+Viêm đại tràng,đau bụng;tiêu chảy;đi ngoài ra máu;đầy hơi;sút cân;mệt mỏi
+Hội chứng ruột kích thích,đau bụng;tiêu chảy hoặc táo bón;đầy hơi;chướng bụng;đi ngoài có nhầy
+Sỏi mật,đau bụng trên bên phải;buồn nôn;nôn;vàng da;sốt;đau lan ra lưng
+Viêm túi mật,đau bụng trên bên phải;sốt;buồn nôn;vàng da;đau khi hít thở sâu
+Viêm tụy cấp,đau bụng dữ dội;buồn nôn;nôn;sốt;đau lan ra lưng;bụng căng
+Viêm tụy mạn tính,đau bụng kéo dài;tiêu chảy;phân có dầu mỡ;giảm cân;tiểu đường
+Viêm đường tiết niệu,đau khi đi tiểu;tiểu gấp;tiểu rắt;sốt nhẹ;đau lưng dưới;nước tiểu đục
+Viêm bàng quang,đau khi đi tiểu;tiểu gấp;tiểu rắt;đau bụng dưới;tiểu máu
+Viêm thận,sốt cao;đau lưng;buồn nôn;nôn;tiểu gấp;tiểu rắt
+Sỏi thận,đau lưng dữ dội;đau bụng;buồn nôn;tiểu máu;đau khi đi tiểu;tiểu gấp
+Suy thận cấp,tiểu ít;phù;mệt mỏi;buồn nôn;khó thở;lú lẫn
+Suy thận mạn tính,mệt mỏi;phù;khó thở;buồn nôn;ngứa;co giật;hôn mê
+Tiểu đường type 1,khát nước;đi tiểu nhiều;mệt mỏi;sụt cân;đói nhiều;nhìn mờ
+Tiểu đường type 2,khát nước;đi tiểu nhiều;mệt mỏi;sụt cân;đói nhiều;nhiễm trùng thường xuyên
+Hạ đường huyết,đổ mồ hôi;run;đói;lo lắng;chóng mặt;lú lẫn;hôn mê
+Huyết áp cao,đau đầu;chóng mặt;mệt mỏi;nhìn mờ;tim đập nhanh;chảy máu cam
+Huyết áp thấp,chóng mặt;mệt mỏi;ngất;nhìn mờ;buồn nôn;da lạnh
+Thiếu máu,mệt mỏi;chóng mặt;da nhợt nhạt;khó thở;tim đập nhanh;đau đầu
+Thiếu máu thiếu sắt,mệt mỏi;da nhợt;móng giòn;lưỡi sưng;khó nuốt
+Thalassemia,mệt mỏi;da nhợt;vàng da;lách to;biến dạng xương mặt
+Suy tim,khó thở;phù chân;mệt mỏi;ho;tăng cân nhanh;đau ngực
+Đau thắt ngực,đau ngực;khó thở;đổ mồ hôi;buồn nôn;mệt mỏi;đau lan ra vai
+Nhồi máu cơ tim,đau ngực dữ dội;khó thở;đổ mồ hôi;buồn nôn;chóng mặt;đau lan ra cánh tay trái
+Rối loạn nhịp tim,hồi hộp;chóng mặt;ngất;đau ngực;khó thở;mệt mỏi
+Viêm nội tâm mạc,sốt;mệt mỏi;đổ mồ hôi đêm;sụt cân;đau cơ;đau khớp
+Viêm khớp dạng thấp,đau khớp;sưng khớp;cứng khớp;mệt mỏi;sốt nhẹ;giảm khả năng vận động
+Viêm đa khớp,đau nhiều khớp;sưng;cứng;đỏ;nóng;hạn chế vận động
+Viêm xương khớp,đau khớp;cứng khớp;sưng nhẹ;kêu răng rắc;hạn chế vận động
+Gout,đau khớp ngón chân cái;sưng;đỏ;nóng;đau dữ dội;sốt
+Loãng xương,đau lưng;gù;giảm chiều cao;gãy xương dễ dàng
+Đau lưng,đau lưng;cứng;hạn chế vận động;tê chân;yếu cơ
+Thoát vị đĩa đệm,đau lưng;đau lan xuống chân;tê;yếu cơ;khó đi lại
+Viêm da tiếp xúc,ngứa;đỏ da;nổi mẩn;khô da;bong tróc;nổi bọng nước
+Viêm da cơ địa,ngứa;da khô;đỏ;nổi mẩn;dày da;nhiễm trùng da
+Vảy nến,vảy da;đỏ;ngứa;dày da;nứt da chảy máu;đau khớp
+Dị ứng da,ngứa;nổi mẩn đỏ;sưng;ban đỏ;mày đay;khó thở
+Mề đay,ngứa;nổi mẩn đỏ;sưng;phù;khó thở;chóng mặt
+Zona,đau dọc thần kinh;nổi mụn nước;ngứa;sốt nhẹ;mệt mỏi;nhạy cảm da
+Thủy đậu,sốt;nổi mụn nước;ngứa;mệt mỏi;đau đầu;chán ăn
+Quai bị,sưng tuyến mang tai;đau khi nhai;sốt;đau đầu;mệt mỏi;khó nuốt
+Sởi,sốt cao;ho;sổ mũi;nổi ban;đau mắt;chảy nước mắt
+Rubella,sốt nhẹ;nổi ban;sưng hạch;đau khớp;đau đầu
+Tay chân miệng,sốt;loét miệng;nổi mụn tay chân;đau họng;chán ăn;tiêu chảy
+Bạch hầu,đau họng;sốt;màng trắng trong họng;khó nuốt;khó thở;sưng cổ
+Ho gà,ho kịch phát;khó thở;nôn sau ho;mệt mỏi;sốt nhẹ
+Viêm màng não,đau đầu dữ dội;sốt cao;cứng gáy;buồn nôn;nhạy cảm ánh sáng;lú lẫn
+Viêm não,sốt cao;đau đầu;lú lẫn;co giật;yếu liệt;hôn mê
+COVID-19,sốt;ho;khó thở;mất vị giác;mất khứu giác;mệt mỏi;đau cơ;đau họng
+Viêm xoang cấp,đau đầu mặt;nghẹt mũi;có đờm mũi;đau khi cúi xuống;sốt nhẹ;đau răng
+Viêm xoang mạn tính,nghẹt mũi kéo dài;đờm mũi;giảm khứu giác;đau đầu;ho;mệt mỏi
+Viêm mũi dị ứng,nghẹt mũi;chảy nước mũi;ngứa mũi;hắt hơi;ngứa mắt
+Hen phế quản,khó thở;khò khè;ho;tức ngực;khó thở khi gắng sức;ho về đêm
+Bệnh phổi tắc nghẽn mạn tính,khó thở;ho kéo dài;đờm nhiều;khò khè;mệt mỏi;sụt cân
+Lao phổi,ho kéo dài;ho ra máu;sốt nhẹ;đổ mồ hôi đêm;sụt cân;mệt mỏi;đau ngực
+Viêm màng phổi,đau ngực sắc;ho;sốt;khó thở;đau khi hít thở sâu
+Ung thư phổi,ho kéo dài;ho ra máu;khó thở;đau ngực;sụt cân;mệt mỏi;khàn giọng
+Thuyên tắc phổi,đau ngực đột ngột;khó thở;ho ra máu;tim đập nhanh;chóng mặt;ngất
+Phù phổi,khó thở nặng;ho có bọt hồng;đổ mồ hôi;lo lắng;da xanh
+Viêm tắc mũi họng,nghẹt mũi;chảy nước mũi;hắt hơi;ho;đau họng;sốt nhẹ
+Viêm thanh quản,khàn tiếng;mất tiếng;đau họng;ho khan;khó nuốt
+Rối loạn tiêu hóa chức năng,đau bụng;đầy hơi;ợ hơi;tiêu chảy hoặc táo bón;khó chịu;buồn nôn
+Trĩ nội,đau khi đi ngoài;chảy máu;ngứa hậu môn;sa búi trĩ
+Trĩ ngoại,đau khi đi ngoài;sưng;ngứa hậu môn;cục ở hậu môn
+Táo bón,khó đi ngoài;đau bụng;đầy hơi;đi ngoài ít;phân cứng
+Ỉa chảy,tiêu chảy kéo dài;phân có máu hoặc mủ;đau bụng;sốt;sụt cân
+Bệnh Crohn,đau bụng;tiêu chảy;sụt cân;sốt;mệt mỏi;đi ngoài ra máu
+Viêm loét đại tràng,đau bụng;tiêu chảy ra máu;sốt;mệt mỏi;sụt cân;đi cầu gấp
+Ung thư dạ dày,đau bụng;buồn nôn;đầy hơi;sụt cân;chán ăn;nôn ra máu
+Ung thư đại trực tràng,thay đổi thói quen đi ngoài;đi ngoài ra máu;đau bụng;sụt cân;mệt mỏi
+Ung thư gan,đau bụng;vàng da;sụt cân;mệt mỏi;chán ăn;bụng to
+Rối loạn lo âu,lo lắng;hồi hộp;tim đập nhanh;khó ngủ;mệt mỏi;căng thẳng;đổ mồ hôi
+Trầm cảm,buồn bã;mất hứng thú;mệt mỏi;khó ngủ;thay đổi cảm giác ngon miệng;khó tập trung;ý nghĩ tiêu cực
+Rối loạn lưỡng cực,hưng phấn;giảm nhu cầu ngủ;nói nhiều;buồn bã;mệt mỏi;ý nghĩ tự tử
+Rối loạn ám ảnh cưỡng chế,suy nghĩ ám ảnh;hành vi lặp đi lặp lại;lo lắng;căng thẳng
+Rối loạn stress sau sang chấn,ác mông;hồi tưởng;tránh né;tăng giác;lo lắng;khó ngủ
+Tâm thần phân liệt,ảo giác;hoang tưởng;lời nói rối loạn;giảm cảm xúc;giảm động lực
+Mất ngủ,khó ngủ;thức giấc sớm;ngủ không sâu giấc;mệt mỏi;khó tập trung;cáu kỉnh
+Ngưng thở khi ngủ,ngáy to;thức giấc đột ngột;khó thở về đêm;đau đầu buổi sáng;mệt mỏi ban ngày
+Đau nửa đầu,đau đầu dữ dội một bên;buồn nôn;nhạy cảm ánh sáng;nhạy cảm với tiếng ồn
+Đau đầu căng cơ,đau đầu hai bên;căng cơ cổ;đau nhức;kéo dài
+Động kinh,co giật;mất ý thức;co cứng;cắn lưỡi;tiểu không tự chủ
+Parkinson,run tay chân;chậm chạp;cứng cơ;mất thăng bằng;khuôn mặt lạnh lùng
+Alzheimer,mất trí nhớ;lú lẫn;khó nói;thay đổi tính cách;lạc lối;mất khả năng tự chăm sóc
+Đột quỵ,yếu nửa người;méo mặt;nói khó;đau đầu;lú lẫn;chóng mặt
+Động mạch vành,đau ngực;khó thở;mệt mỏi;hồi hộp;đổ mồ hôi
+Suy giáp,mệt mỏi;tăng cân;rụng tóc;da khô;táo bón;sợ lạnh
+Cường giáp,sụt cân;hồi hộp;run;đổ mồ hôi;khó ngủ;tiêu chảy
+Bướu giáp,sưng cổ;khó nuốt;khó thở;khàn tiếng;ho
+Viêm khớp gối,đau gối;sưng;cứng;kêu răng rắc;yếu cơ đùi;khó đi lại
+Viêm bao hoạt dịch,đau khớp;sưng;nóng;đỏ;hạn chế vận động
+Viêm gân,đau;sưng;yếu;đỏ;nóng;hạn chế vận động
+Viêm bao gân,đau lan theo gân;sưng;kêu răng rắc;yếu;hạn chế vận động
+Gãy xương,đau;sưng;biến dạng;bầm tím;không thể cử động
+Bong gân,đau;sưng;bầm tím;hạn chế vận động;bất ổn định khớp
+Nhiễm trùng da,đỏ;sưng;nóng;đau;mủ;sốt
+Mụn trứng cá,mụn đầu đen;mụn đầu trắng;mụn mủ;sẹo;đỏ
+Nấm da,ngứa;đỏ;vảy;nứt;chảy dịch
+Nấm móng,móng dày;đổi màu;giòn;biến dạng;tách móng
+Viêm da nhiễm trùng,đỏ;sưng;nóng;đau;mủ;sốt;hạch to
+Bệnh vẩy cá,da khô;vảy;dày;nứt;ngứa
+Trứng cá đỏ,đỏ mặt;mụn;mủ;mạch máu giãn;dày da
+Bạch biến,mất sắc tố da;vết trắng;lan rộng;nhạy cảm ánh sáng
