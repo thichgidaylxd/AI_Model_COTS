@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hệ Thống Dự Đoán Bệnh - Disease Prediction Service
 
 ## Tổng Quan
@@ -149,3 +150,6 @@ const predictDisease = async (symptoms) => {
 - Dataset mẫu bao gồm 41 bệnh phổ biến
 - Có thể thêm dữ liệu để cải thiện độ chính xác
 - Kết quả chỉ mang tính tham khảo, không thay thế chẩn đoán y tế
+=======
+# AI_Model_COTS
+>>>>>>> 2d6b4395fd12c5e2b4cfa4081139a6a042851fd2
